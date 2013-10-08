@@ -1,0 +1,3 @@
+{"ts":1378165940973,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"class PostsController < ApplicationController\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":50}]],"length":50}
+{"contributors":[],"silentsave":false,"ts":1378165100063,"patch":[[{"diffs":[[0,"troller\n"],[1,"    \n    def new\n    end\n"],[0,"end\n"]],"start1":38,"start2":38,"length1":12,"length2":37}]],"length":75,"saved":false}
+{"ts":1378165102021,"patch":[[{"diffs":[[0,"ler\n"],[-1,"    \n"],[0,"    "]],"start1":42,"start2":42,"length1":13,"length2":8}]],"length":70,"saved":false}

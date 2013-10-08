@@ -1,0 +1,2 @@
+{"ts":1378165319830,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<h1>Welcome#index</h1>\n<p>Find me in app/views/welcome/index.html.erb</p>\n"]],"start1":0,"start2":0,"length1":0,"length2":74}]],"length":74}
+{"contributors":[],"silentsave":false,"ts":1378164488421,"patch":[[{"diffs":[[0,"<h1>"],[-1,"Welcome#index</h1>\n<p>Find me in app/views/welcome/index.html.erb</p>\n"],[1,"Hello, Rails!</h1>"]],"start1":0,"start2":0,"length1":74,"length2":22}]],"length":22,"saved":false}
